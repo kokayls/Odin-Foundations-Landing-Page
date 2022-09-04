@@ -8,7 +8,7 @@ body{
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
-    height: 30vh;
+    height: 35vh;
 }
 .header{
     display: flex;
