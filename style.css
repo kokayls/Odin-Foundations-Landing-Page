@@ -74,10 +74,11 @@ body{
 
 .image-box{
     overflow: hidden;  
+    
 }
 
 .image-box img{
-    
+    border-radius: 5px;
     display: block;
     margin :auto;
     max-width:100%; 
