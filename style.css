@@ -155,3 +155,39 @@ body{
     font-weight: 700;
     font-size: 28px;
 }
+.section-four{
+    height: 30vh;
+    width: 100%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.callout-card{
+    display: flex;
+    justify-content: space-around;
+    vertical-align: center;
+    padding: 20px;
+    width: 55vw;
+    height: 70px;
+    background-color: #3882F6;
+    border-radius: 6px;
+}
+.callout-left{
+   width: 25vw;
+}
+.callout-right{
+    display: flex;
+    align-items: center;
+}
+.sign-up-button{
+    width: 120px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border: solid 3px #eee;
+    border-radius: 6px;
+    color: #eee;
+    font-weight: 700;
+}
